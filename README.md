@@ -6,7 +6,7 @@ Intuition - This financial model serves as a strategic decision-making and fundr
 2. How much capital is needed? → Through working capital, capex, and funding gap analysis
 3. What is the company worth? → Through DCF and market multiple valuation
 
-🧠 Core Business Logic
+Core Business Logic
 The Business Model
 
 Output Side & Input Side
